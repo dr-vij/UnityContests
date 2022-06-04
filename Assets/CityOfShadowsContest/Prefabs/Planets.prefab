@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2649318442596839646}
   - component: {fileID: 2649318442596839584}
   - component: {fileID: 2649318442596839585}
-  m_Layer: 1
+  m_Layer: 0
   m_Name: Sphere (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 2649318442897767847}
   - component: {fileID: 2649318442897767848}
   - component: {fileID: 2649318442897767849}
-  m_Layer: 1
+  m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -175,7 +175,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2649318443002092697}
-  m_Layer: 1
+  m_Layer: 0
   m_Name: Planets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -189,7 +189,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2649318443002092694}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2.194934, y: -6.7109547, z: -2.781008}
   m_LocalScale: {x: 500, y: 500, z: 500}
   m_ConstrainProportionsScale: 0
@@ -213,7 +213,7 @@ GameObject:
   - component: {fileID: 2649318443080035790}
   - component: {fileID: 2649318443080035792}
   - component: {fileID: 2649318443080035793}
-  m_Layer: 1
+  m_Layer: 0
   m_Name: Sphere (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -296,7 +296,7 @@ GameObject:
   - component: {fileID: 2649318443211191279}
   - component: {fileID: 2649318443211191280}
   - component: {fileID: 2649318443211191281}
-  m_Layer: 1
+  m_Layer: 0
   m_Name: Sphere (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -379,7 +379,7 @@ GameObject:
   - component: {fileID: 2649318443690879039}
   - component: {fileID: 2649318443690878976}
   - component: {fileID: 2649318443690878977}
-  m_Layer: 1
+  m_Layer: 0
   m_Name: Sphere (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
